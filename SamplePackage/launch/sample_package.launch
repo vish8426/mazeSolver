@@ -1,0 +1,4 @@
+<launch>
+  <node name="sample_package" pkg="sample_package" type="sample_package" output="screen" clear_params="true" ns="test">
+  </node>
+</launch>
